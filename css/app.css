@@ -1,0 +1,41 @@
+.tagline {
+  margin-top: 20%;
+}
+.gallery-page {
+  height: 100vh;
+  background-color: #555;
+}
+
+.slick-carousel {
+  margin: 50px 20px 0 20px;
+}
+.slider-image {
+  margin-right: 20px;
+}
+/* fluid 5 columns */
+.grid-sizer,
+.grid-item {
+   width: 20%;
+ }
+/* 2 columns */
+.grid-item--width2 {
+   width: 40%; }
+
+.contact-p {
+  padding-top: 0.5rem;
+}
+.contact i{
+  font-size: 1.7em;
+  padding-top: 0.4rem;
+  margin-right: 15px;
+}
+.contact h4 {
+  padding-bottom: 0.35rem;
+  font-size: 1.2rem;
+}
+.tips ul {
+  list-style-type: none;
+}
+.tips ul li {
+  padding: 10px 0;
+}
