@@ -5,7 +5,7 @@ include 'includes/navbar.php';
 <h1>The Man Behind the Mask</h1>
   <div class="row">
     <div class="columns medium-6 align-self-middle">
-      <img src="http://style.anu.edu.au/_anu/4/images/placeholders/person.png" alt="" class="" />
+    
     </div>
     <div class="columns medium-6 align-self-middle">
       <p class="text-justify">

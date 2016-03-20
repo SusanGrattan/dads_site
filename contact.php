@@ -2,7 +2,7 @@
       include 'includes/navbar.php';
 ?>
 
-<h2 class="text-left">Get in touch</h2>
+<h1 class="text-left">Get in touch</h1>
   <div class="row align-center contact-div">
     <div class="columns small-12 medium-7">
 
@@ -74,7 +74,7 @@
             </div>
           </div>
           <div class="columns medium-12">
-        <input type="submit" value="Submit" class="float-right button expand">
+        <input type="submit" value="Submit" class="float-right button submit-button">
       </div>
       </div>
     </form>
