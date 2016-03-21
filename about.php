@@ -5,11 +5,11 @@ include 'includes/navbar.php';
 <h1>The Man Behind the Mask</h1>
   <div class="row">
     <div class="columns medium-6 align-self-middle">
-    
+      <img src="http://i81.photobucket.com/albums/j234/robertg_g/chat/goingdown.jpg" alt="picture of me coming up from a dive" />
     </div>
     <div class="columns medium-6 align-self-middle">
       <p class="text-justify">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptat
+        My hometown is Port Huron, Michigan.  Home of the most dangerous navigatable waterway in the United States.  While diving, 1,200 foot freighters go right over top of you.  The current fast and unpredictable.  This is where Lake Huron empties into the St. Clair River.  Sarnia, Canada is on the other side of the bridges.  It is impossible to swim against the current here and you have to be super careful it doesn't rip your mask off if you look behind you.
       </p>
     </div>
 

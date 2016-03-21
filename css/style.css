@@ -1,5 +1,5 @@
 .title-bar {
-  background: #1E3D40;
+  background: #49726E;
   padding: 0.9rem; }
 
 h1 {
@@ -8,14 +8,20 @@ h1 {
   margin-right: 30px;
   color: #0E2229; }
 
+h5, h4, h3, h2 {
+  color: #1E3D40; }
+
 .top-bar {
-  background: #1E3D40; }
+  background: #49726E; }
   .top-bar ul {
-    background: #1E3D40; }
+    background: #49726E; }
     .top-bar ul li {
-      background: #1E3D40; }
+      background: #49726E; }
       .top-bar ul li a {
         color: #fff; }
+
+a {
+  color: #2C8BED; }
 
 .contact-link {
   color: #E3992D !important; }
@@ -89,14 +95,16 @@ h1 {
 
 .contact i {
   font-size: 1.7em;
-  padding-top: 0.4rem;
+  padding-top: 0.6rem;
   margin-right: 15px; }
   .contact i h4 {
     padding-bottom: 0.35rem;
     font-size: 1.2rem; }
 
 .button {
-  background-color: #2C8BED; }
+  background-color: #E3992D; }
+  .button:hover {
+    background-color: #e9af5a; }
 
 .tips ul li {
   padding: 10px 0; }

@@ -4,7 +4,7 @@
 
 <h1 class="text-left">Get in touch</h1>
   <div class="row align-center contact-div">
-    <div class="columns small-12 medium-7">
+    <div class="columns small-12 medium-7 align-self-middle">
 
       <p class="text-justify contact-p">
       I find lost items in lakes all over Michigan. If you would like to hire me, up front I ask for gas and one tank of air which is $6.00. If the item is located I would like some compensation for my time. Otherwise I look for free. If you're out on a boat in one of the big lakes and have access to a GPS, the coordinates would be very helpful.
@@ -14,8 +14,8 @@
     <div class="contact columns medium-5 small-12">
 
         <div class="row">
-          <div class="columns medium-12"> <p class="text-right"><i class="fi-marker float-left">
-
+          <div class="columns medium-12">
+            <p class="text-right "><i class="fi-marker float-left ">
           </i><h4 class="contact-text ">Port Huron, UT</h4></p>
           </div>
         </div>

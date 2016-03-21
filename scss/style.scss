@@ -4,7 +4,7 @@ $midBlue: #1E3D40;
 $lightBlue: #49726E;
 $yellow: #E3992D;
 
-$menu-background: $midBlue;
+$menu-background: $lightBlue;
 
 .title-bar {
   background: $menu-background;
@@ -16,6 +16,11 @@ h1 {
   margin-right: 30px;
   color: $darkBlue;
 }
+h5, h4, h3, h2, {
+  color: $midBlue;
+}
+
+
 .top-bar {
   background: $menu-background;
 
@@ -30,6 +35,9 @@ h1 {
       }
     }
   }
+}
+a {
+  color: $brightBlue;
 }
 .contact-link {
   color: $yellow !important;
@@ -96,9 +104,7 @@ h1 {
 
 .gallery-page {
   height: 100%;
-
 }
-
 .slick-carousel {
   margin: 50px 20px 0 20px;
 }
@@ -119,7 +125,7 @@ h1 {
 }
 .contact i{
   font-size: 1.7em;
-  padding-top: 0.4rem;
+  padding-top: 0.6rem;
   margin-right: 15px;
  h4 {
   padding-bottom: 0.35rem;
@@ -127,9 +133,11 @@ h1 {
   }
 }
 .button {
-  background-color: $brightBlue;
+  background-color: $yellow;
+  &:hover {
+      background-color: lighten($yellow, 10%);
+  }
 }
-
 .tips ul li {
   padding: 10px 0;
 }
