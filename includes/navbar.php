@@ -7,7 +7,7 @@
 <div class="top-bar" id="example-menu">
 <div class="top-bar-left">
   <ul class="dropdown menu" data-dropdown-menu>
-    <li class="menu-text">ScubaDetector</li>
+    <li class="menu-text brand-name">ScubaDetector</li>
     </ul>
 </div>
 

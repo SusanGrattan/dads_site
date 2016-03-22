@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700|Oswald);
 .title-bar {
   background: #49726E;
   padding: 0.9rem; }
@@ -6,10 +7,15 @@ h1 {
   font-size: 2.75em;
   margin-left: 30px;
   margin-right: 30px;
-  color: #0E2229; }
+  color: #0E2229;
+  font-family: "Oswald", sans-serif; }
 
 h5, h4, h3, h2 {
-  color: #1E3D40; }
+  color: #1E3D40;
+  font-family: "Oswald", sans-serif; }
+
+body, p {
+  font-family: "Open Sans", sans-serif; }
 
 .top-bar {
   background: #49726E; }
@@ -21,13 +27,18 @@ h5, h4, h3, h2 {
         color: #fff; }
 
 a {
-  color: #2C8BED; }
+  color: #2C8BED;
+  font-family: "Open Sans", sans-serif; }
 
 .contact-link {
   color: #E3992D !important; }
 
+.brand-name, h1, h2 {
+  font-family: "Oswald", sans-serif; }
+
 .menu-text {
-  color: #fff; }
+  color: #fff;
+  font-family: "Open Sans", sans-serif; }
   @media only screen and (max-width: 40em) {
     .menu-text {
       display: none !important; } }

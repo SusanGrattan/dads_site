@@ -24,17 +24,57 @@ include 'includes/navbar.php';
         <div class="row slick-slide">
 
           <div class="float-left  medium-6 small-12">
-            <img src="https://placehold.it/400x400" alt="" class="slider-image"/>
+            <img src="img/889257.jpg" alt="" class="slider-image"/>
           </div>
 
           <div class=" columns">
             <p class="text-justify slider-text">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              University of Maryland Class ring of 1954.  Found the owner 54 years after they lost it.  It was an used as an engagement ring for girlfriend and it fell off her finger. They are still married.
             </p>
           </div>
 
         </div>
 
+        <div class="row slick-slide">
+
+          <div class="float-left  medium-6 small-12">
+            <img src="img/4067496.jpg" alt="" class="slider-image"/>
+          </div>
+
+          <div class=" columns">
+            <p class="text-justify slider-text">
+            This ring was found in a lake in Oakland county.  It is a high school championship ring.  This is George Romney's grandson and Mitt Romney's nephew.  He lost it water skiing.  I found it in almost 20' of water and it took a few weeks to find him.  I had plenty of help from the school.  He flew here from Utah with his family to pick it up in person.
+            </p>
+          </div>
+
+        </div>
+
+        <div class="row slick-slide">
+
+          <div class="float-left  medium-6 small-12">
+            <img src="img/2148366.jpg" alt="" class="slider-image"/>
+          </div>
+
+          <div class=" columns">
+            <p class="text-justify slider-text">
+              Graduated from the acadamy in 1946 as a bomber pilot. He flew B-47 bombers and died in 2001.  It took over three years to find this family in South Carolina. Ring was sent to his son who was also a pilot in the USAF with the same name.  No idea how it came to be lost in Michigan.
+            </p>
+          </div>
+
+        </div>
+        <div class="row slick-slide">
+
+          <div class="float-left  medium-6 small-12">
+            <img src="img/1141868.jpg" alt="" class="slider-image"/>
+          </div>
+
+          <div class=" columns">
+            <p class="text-justify slider-text">
+              I was able to track the family down in Virginia.  He had died but I sent it to his son.  Again no idea how it became lost in a lake in Michigan.  Another story I will never know.
+            </p>
+          </div>
+
+        </div>
         <div class="row slick-slide">
 
           <div class="float-left  medium-6 small-12">
@@ -48,21 +88,6 @@ include 'includes/navbar.php';
           </div>
 
         </div>
-
-        <div class="row slick-slide">
-
-          <div class="float-left  medium-6 small-12">
-            <img src="https://placehold.it/400x400" alt="" class="slider-image"/>
-          </div>
-
-          <div class=" columns">
-            <p class="text-justify slider-text">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-          </div>
-
-        </div>
-
       </div>
     </div>
   </div>

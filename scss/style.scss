@@ -1,9 +1,13 @@
+// Google Fonts
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700|Oswald);
+
 $brightBlue: #2C8BED;
 $darkBlue: #0E2229;
 $midBlue: #1E3D40;
 $lightBlue: #49726E;
 $yellow: #E3992D;
-
+$header-font: 'Oswald', sans-serif;
+$secondary-font: 'Open Sans', sans-serif;
 $menu-background: $lightBlue;
 
 .title-bar {
@@ -15,11 +19,16 @@ h1 {
   margin-left: 30px;
   margin-right: 30px;
   color: $darkBlue;
+  font-family: $header-font;
 }
 h5, h4, h3, h2, {
   color: $midBlue;
-}
+  font-family: $header-font;
 
+}
+body, p {
+  font-family: $secondary-font;
+}
 
 .top-bar {
   background: $menu-background;
@@ -38,13 +47,17 @@ h5, h4, h3, h2, {
 }
 a {
   color: $brightBlue;
+  font-family: $secondary-font;
 }
 .contact-link {
   color: $yellow !important;
 }
+.brand-name, h1, h2 {
+  font-family: $header-font;
+}
 .menu-text {
   color: #fff;
-
+  font-family: $secondary-font;
   @media only screen and (max-width: 40em) {
     display: none !important;
   }
