@@ -87,8 +87,7 @@
         I <a href="gallery.php">give back</a>.  I have returned over 35 gold class rings and two silver ID bracelets.  That is my choice.  It has also opened many doors to me that  allowed me into places nobody else can detect in.  That is personal preference and its all up to you to decide what is right for you.
       </li>
       <li>
-
-        Be safe,  have fun and no matter if you find anything or not enjoy yourself.  Good luck!
+        Be safe,  have fun and no matter if you find anything or not <strong>enjoy yourself</strong>.  Good luck!
       </li>
     </ul>
   </div>

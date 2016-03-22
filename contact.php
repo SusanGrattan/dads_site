@@ -32,7 +32,7 @@
     </div>
   </div>
 <hr>
-    <form action="" class="email">
+    <form action="" class="email" method="post" action="send_form_email.php">
       <div class="row">
 
         <div class="columns medium-4">

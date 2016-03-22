@@ -16,6 +16,7 @@ $(document).ready(function(){
   });
 });
 
+
 $(window).load(function(){
 // Masonry
   $('.grid').masonry({
