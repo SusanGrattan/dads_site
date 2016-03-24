@@ -32,7 +32,7 @@
     </div>
   </div>
 <hr>
-    <form action="" class="email" method="post" action="send_form_email.php">
+    <form name="contactform" class="email" method="post" action="send_form_email.php">
       <div class="row">
 
         <div class="columns medium-4">
@@ -49,7 +49,7 @@
               <label for="emailAddress" class="inline middle left">Email:</label>
             </div>
             <div class="columns medium-9">
-              <input type="email" name="email_address" id="emailAddress" placeholder="bobbyjoe@mail.com" required>
+              <input type="email" name="email" id="emailAddress" placeholder="bobbyjoe@mail.com" required>
             </div>
           </div>
           <div class="row">
@@ -67,7 +67,7 @@
                 <label for="messageInput" class=" inline middle text-right">Message:</label>
               </div>
               <div class="columns medium-10">
-              <textarea type="text" name="message" class="message-input" id="messageInput" required rows="6"
+              <textarea type="text" name="comments" class="message-input" id="messageInput" required rows="6"
 
               ></textarea>
             </div>

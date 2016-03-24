@@ -24,7 +24,8 @@ $(window).load(function(){
     itemSelector: '.grid-item',
     columnWidth: '.grid-sizer',
     percentPosition: true,
-    transitionDuration: '0.5s'
+    transitionDuration: '0.5s',
+    isAnimated: true
   });
 
 });

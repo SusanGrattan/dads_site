@@ -10,6 +10,7 @@ $header-font: 'Oswald', sans-serif;
 $secondary-font: 'Open Sans', sans-serif;
 $menu-background: $lightBlue;
 
+
 .title-bar {
   background: $menu-background;
   padding: 0.9rem;
@@ -115,27 +116,32 @@ a {
   text-fill-color: transparent;
   transition: all 0.2s ease; }
 
-.gallery-page {
-  height: 100%;
+
+.full-page {
+ height: 100%;
+ min-height: 100vh;
 }
 .slick-carousel {
-  margin: 50px 20px 0 20px;
+  margin: 50px 50px 0 50px;
 }
 .slider-image {
   margin-right: 20px;
 }
-/* fluid 5 columns */
+
+/* fluid 4 columns */
 .grid-sizer,
 .grid-item {
    width: 24%;
    margin: 0.5%;
  }
-/* 2 columns */
-.grid-item--width2 {
-   width: 24%;
-    margin: 0.5%;
-  }
 
+ @media screen and (max-width: 600px) {
+   /* 3 columns for smaller screens */
+   .grid-sizer, .grid-item {
+     width: 33%;
+     margin: 1px;
+    }
+ }
 .contact-p {
   padding-top: 0.5rem;
 }
