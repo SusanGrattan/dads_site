@@ -112,8 +112,11 @@ a {
   border-image: linear-gradient(45deg, $lightBlue, #FFF);
   border-image-slice: 1;
   background: linear-gradient(45deg, #FFF, $lightBlue);
+  background: -ms-linear-gradient(45deg, #FFF, $lightBlue);
   -webkit-background-clip: text;
+  -ms-background-clip: text;
   text-fill-color: transparent;
+  -ms-text-fill-color: transparent;
   transition: all 0.2s ease; }
 
 
@@ -136,9 +139,12 @@ a {
  }
 
  @media screen and (max-width: 600px) {
+   .masonry-gallery h2 {
+     padding-top: 50px;
+   }
    /* 3 columns for smaller screens */
    .grid-sizer, .grid-item {
-     width: 33%;
+     width: 30%;
      margin: 1px;
     }
  }

@@ -6,7 +6,7 @@ include 'includes/navbar.php';
 
   <div class="row align-center">
     <h1> Gallery</h1>
-    <p class="callout">              I have returned over 35 gold class rings and 2 sterling ID bracelets that I found on my own. I have also been hired by numerous people to find their lost rings and have a supurb success rate. Twice I was featured on Fox 2 News Detroit, and I also have been featured in 7 different newspapers.</p>
+    <p class="callout hide-for-small-only">              I have returned over 35 gold class rings and 2 sterling ID bracelets that I found on my own. I have also been hired by numerous people to find their lost rings and have a supurb success rate. Twice I was featured on Fox 2 News Detroit, and I also have been featured in 7 different newspapers.</p>
     <div class="columns small-12">
       <div class="slick-carousel">
 

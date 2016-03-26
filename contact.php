@@ -35,45 +35,43 @@
     <form name="contactform" class="email" method="post" action="send_form_email.php">
       <div class="row">
 
-        <div class="columns medium-4">
+        <div class="columns small-12 medium-4">
           <div class="row">
-            <div class="columns medium-3  text-right">
+            <div class="columns small-3  text-right">
               <label for="name" class="inline middle left">Name:</label>
             </div>
-            <div class="columns medium-9">
+            <div class="columns small-9">
               <input type="text" name="name" id="name" placeholder="Bobby Joe" required>
             </div>
           </div>
           <div class="row">
-            <div class="columns medium-3 text-right">
+            <div class="columns small-3 text-right">
               <label for="emailAddress" class="inline middle left">Email:</label>
             </div>
-            <div class="columns medium-9">
+            <div class="columns small-9">
               <input type="email" name="email" id="emailAddress" placeholder="bobbyjoe@mail.com" required>
             </div>
           </div>
           <div class="row">
-            <div class="columns medium-3  text-right">
+            <div class="columns small-3  text-right">
               <label class="inline middle left" for="subject">Subject:</label>
             </div>
-            <div class="columns medium-9">
-              <input type="text" name="subject" id="subject" placeholder="Lost ring...">
+            <div class="columns small-9">
+              <input type="text" name="subject" id="subject" placeholder="Lost my...">
             </div>
           </div>
         </div>
-          <div class="columns medium-8">
+          <div class="columns small-12 medium-8">
             <div class="row">
-              <div class="columns medium-2">
+              <div class="columns small-2 medium-2">
                 <label for="messageInput" class=" inline middle text-right">Message:</label>
               </div>
-              <div class="columns medium-10">
-              <textarea type="text" name="comments" class="message-input" id="messageInput" required rows="6"
-
-              ></textarea>
+              <div class="columns small-10 medium-10">
+              <textarea type="text" name="comments" class="message-input" id="messageInput" required rows="6"></textarea>
             </div>
             </div>
           </div>
-          <div class="columns medium-12">
+          <div class="columns small-12">
         <input type="submit" value="Send" class="float-right button submit-button">
       </div>
       </div>
