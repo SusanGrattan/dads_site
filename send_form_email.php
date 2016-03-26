@@ -1,12 +1,12 @@
 <?php
-
+include 'includes/header.php';
 if(isset($_POST['email'])) {
 
 
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
 
-    $email_to = "robertgrattan@scubadetector.com";
+    $email_to = "robert@scubadetector.com";
 
     $email_subject = "Your email subject line";
 
@@ -121,19 +121,8 @@ $headers = 'From: '.$email_from."\r\n".
 
 @mail($email_to, $email_subject, $email_message, $headers);
 
-?>
-
-
-
-<!-- include your own success html here -->
-
-
-
-Thank you for contacting us. We will be in touch with you very soon.
-
-
-
-<?php
+header('Location: contact.php');
+exit;
 
 }
 

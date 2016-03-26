@@ -21,7 +21,7 @@
         </div>
         <div class="row">
           <div class="columns medium-12">
-            <p class="text-right"><i class="fi-telephone float-left"></i><h4 class="contact-text"> +1-234-567-8910</h4></p>
+            <p class="text-right"><i class="fi-telephone float-left"></i><h4 class="contact-text">810-357-7962</h4></p>
           </div>
         </div>
           <div class="row">
@@ -74,7 +74,7 @@
             </div>
           </div>
           <div class="columns medium-12">
-        <input type="submit" value="Submit" class="float-right button submit-button">
+        <input type="submit" value="Send" class="float-right button submit-button">
       </div>
       </div>
     </form>
