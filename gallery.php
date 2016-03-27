@@ -48,8 +48,9 @@ include 'includes/navbar.php';
           </div>
 
           <div class=" columns">
-            <h4>Military Ring</h4>
             <p class="text-justify slider-text">
+            <h4>Military Ring</h4>
+
               Graduated from the acadamy in 1946 as a bomber pilot. He flew B-47 bombers and died in 2001.  It took over three years to find this family in South Carolina. Ring was sent to his son who was also a pilot in the USAF with the same name.  No idea how it came to be lost in Michigan.
             </p>
           </div>

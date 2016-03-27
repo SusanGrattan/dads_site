@@ -16,7 +16,7 @@
         <div class="row">
           <div class="columns medium-12">
             <p class="text-right "><i class="fi-marker float-left ">
-          </i><h4 class="contact-text ">Port Huron, UT</h4></p>
+          </i><h4 class="contact-text ">Port Huron, MI</h4></p>
           </div>
         </div>
         <div class="row">
